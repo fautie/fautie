@@ -1,1 +1,1 @@
-![Metrics](github-metrics.svg)
+![Metrics](https://github.com/fautie/fautie/blob/master/github-metrics.svg)
